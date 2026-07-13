@@ -56,3 +56,15 @@ The virtual machine booted successfully, and the hostname **LAB-DC01** was retai
 - Install Splunk Universal Forwarder.
 - Install Sysmon.
 - Verify Windows Event Log ingestion into Splunk.
+
+Day 2 — July 13, 2026
+
+Completed
+- Installed VirtualBox Guest Additions
+- Enabled better screen resolution
+- Enabled shared clipboard
+- Improved mouse integration
+- Restarted the virtual machine
+
+Notes
+Guest Additions greatly improved usability by allowing seamless mouse movement, dynamic screen resizing, and clipboard sharing between the host and the virtual machine.
