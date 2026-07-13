@@ -57,7 +57,7 @@ The virtual machine booted successfully, and the hostname **LAB-DC01** was retai
 - Install Sysmon.
 - Verify Windows Event Log ingestion into Splunk.
 
-Day 2 — July 13, 2026
+##Day 2 — July 13, 2026
 
 Completed
 - Installed VirtualBox Guest Additions
