@@ -6,8 +6,8 @@
 - [x] Create project folder structure
 - [x] Install VirtualBox
 - [x] Download Windows Server 2022 Evaluation ISO
-- [ ] Create Windows Server 2022 Virtual Machine
-- [ ] Install Windows Server 2022
+- [x] Create Windows Server 2022 Virtual Machine
+- [x] Install Windows Server 2022
 - [ ] Configure Windows Server
 - [ ] Install Splunk Enterprise
 - [ ] Install Splunk Universal Forwarder
