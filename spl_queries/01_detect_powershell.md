@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Detect PowerShell execution using Sysmon Process Create events.
+Detect PowerShell execution using Sysmon events collected by Splunk.
 
 ## SPL Query
 
@@ -12,7 +12,7 @@ index=main PowerShell
 
 ## Result
 
-This query returns PowerShell execution events collected by Sysmon and forwarded to Splunk.
+Displays PowerShell execution events collected by Sysmon and indexed in Splunk. These events can be used to investigate PowerShell activity on the system.
 
 ## Screenshot
 
