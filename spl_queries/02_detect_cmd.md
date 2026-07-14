@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Detect Command Prompt execution using Sysmon events.
+Detect Command Prompt (cmd.exe) execution using Sysmon events collected by Splunk.
 
 ## SPL Query
 
@@ -12,7 +12,7 @@ index=main cmd.exe
 
 ## Result
 
-Displays Command Prompt execution events collected by Sysmon.
+Displays Command Prompt execution events collected by Sysmon and indexed in Splunk. These events can be used to investigate command-line activity on the system.
 
 ## Screenshot
 
