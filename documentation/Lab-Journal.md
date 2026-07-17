@@ -2,7 +2,7 @@
 
 ---
 
-## Day 1
+## Lab Session 1
 
 ### Completed
 
@@ -24,7 +24,7 @@
 
 ---
 
-## Day 2
+## Lab Session 2
 
 ### Completed
 
